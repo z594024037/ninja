@@ -138,7 +138,7 @@ export default {
         address: '京东APP-首页/玩一玩/我的-东东健康社区',
       },
       {
-        name: '京喜农场',
+        name: '京喜农场（可忽略活动）',
         address: '京喜APP-我的-京喜农场',
       },
       {
