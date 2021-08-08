@@ -10,7 +10,7 @@
           >
         </div>
         <span class="card-subtitle">
-          请点击下方按钮登录，点击按钮后回到本网站查看是否登录成功，京东的升级提示不用管。
+          请点击下方按钮登录，点击按钮后回到本网站查看是否登录成功，京东app的升级提示不用管。
         </span>
       </div>
       <div class="card-body text-center">
@@ -99,7 +99,7 @@ export default {
         }
       } catch (e) {
         console.error(e)
-        ElMessage.error('生成二维码失败！请重试或放弃')
+        ElMessage.error('生成二维码失败！请重试或联系我')
       }
     }
 
